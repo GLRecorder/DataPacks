@@ -1,10 +1,11 @@
+[
 {
   "format": 1,
   "fileName": "IngredientsSample",
   "contents": "Sample ingredients",
   "author": "GLRecorder Team",
   "date": "25-11-16"
-}
+},
 {
   "format": 1,
   "fileName": "DoesntExist",
@@ -12,3 +13,4 @@
   "author": "S. McKelvey",
   "date": "25-11-16"
 }
+]
