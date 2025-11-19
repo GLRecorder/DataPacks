@@ -1,0 +1,20 @@
+{
+"format": 1,
+[
+{
+  "format": 1,
+  "packType": "Recipes",
+  "fileName": "RecipesSample",
+  "contents": "Sample recipes",
+  "author": "S McKelvey",
+  "date": "25-11-16"
+},
+{
+  "format": 1,
+  "packType": "Recipes",
+  "fileName": "Another non-existent one",
+  "contents": "Empty one",
+  "author": "S McKelvey",
+  "date": "25-11-16"
+}
+]
