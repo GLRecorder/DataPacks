@@ -4,7 +4,7 @@
 {
   "format": 1,
   "packType": "Ingredients",
-  "fileName": "ingredients.csv",
+  "fileName": "IngredientsSample.zip",
   "contents": "Who knows what's in it",
   "author": "GLRecorder Team",
   "date": "25-11-16"
@@ -12,7 +12,7 @@
 {
   "format": 1,
   "packType": "Ingredients",
-  "fileName": "ingredients.csv",
+  "fileName": "ingredients.zip",
   "contents": "Empty dummy sample",
   "author": "A. N. Other",
   "date": "25-11-16"
