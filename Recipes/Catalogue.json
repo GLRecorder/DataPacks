@@ -4,7 +4,7 @@
 {
   "format": 1,
   "packType": "Recipes",
-  "fileName": "RecipesSample",
+  "fileName": "RecipesSample.zip",
   "contents": "Sample recipes",
   "author": "S McKelvey",
   "date": "25-11-16"
@@ -12,7 +12,7 @@
 {
   "format": 1,
   "packType": "Recipes",
-  "fileName": "Another non-existent one",
+  "fileName": "Empty.zip",
   "contents": "Empty one",
   "author": "S McKelvey",
   "date": "25-11-16"
